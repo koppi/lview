@@ -1,0 +1,7 @@
+Lindenmayer Systems viewer for GTK 2.0.
+
+Usage:
+
+  ./lview < System.txt
+
+License: GPL
